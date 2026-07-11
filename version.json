@@ -1,6 +1,6 @@
 {
-  "latest_version_code": 3,
-  "latest_version_name": "1.2",
-  "release_notes": "Đổi theme Sáng/Tối xen kẽ khi chọn Room nhạc, tối ưu giao diện xoay ngang.",
+  "latest_version_code": 2,
+  "latest_version_name": "1.3",
+  "release_notes": "Đổi theme Sáng/Tối xen kẽ khi chọn Room nhạc, tối ưu giao diện xoay ngang./nFix OTA update",
   "apk_download_url": "https://github.com/NgheNhacThuGian/NgheNhacThuGian/raw/refs/heads/main/app.apk"
 }
