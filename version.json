@@ -1,6 +1,6 @@
 {
-  "latest_version_code": 1,
-  "latest_version_name": "1.0",
-  "release_notes": "🎉 Phiên bản phát hành chính thức 1.0:\n- Tích hợp điều khiển nhạc trên màn hình khóa (Lockscreen).\n- Hỗ trợ vuốt ngang để chuyển bài, chạm đúp để Dừng/Phát.\n- Tự động bỏ qua Room hỏng sau 3 lần thử kết nối lại.\n- Cập nhật OTA trực tiếp ngay trong ứng dụng.",
-  "apk_download_url": "https://github.com/NgheNhacThuGian/NgheNhacThuGian/releases/download/1.0/app.apk"
+  "latest_version_code": 2,
+  "latest_version_name": "1.2",
+  "release_notes": "🎉 Phiên bản cập nhật lớn 1.2:\n- Tự động nhận diện Theme Hệ Thống (Sáng/Tối).\n- Thiết kế bộ 4 Theme Động độc quyền (Đỏ Gạch, Tím Đậm, Trắng Xám, Trắng Sáng).\n- Tự động chuyển đổi màu sắc, bộ lọc màn hình và độ trong suốt nút bấm mỗi khi đổi Room.\n- Tối ưu hóa hiệu năng, đồng bộ âm lượng và khắc phục hoàn toàn lỗi ngắt kết nối ngầm.",
+  "apk_download_url": "https://github.com/NgheNhacThuGian/NgheNhacThuGian/releases/download/v1.2/app.apk"
 }
